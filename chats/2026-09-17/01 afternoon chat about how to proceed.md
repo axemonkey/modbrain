@@ -1,3 +1,7 @@
+axemonkey note: the below is most likely what CURRENT-STATE.md was based on, when it was created on 17th Sept.
+
+---
+
 Yes. I think we've now got enough material that I can stop treating this as a file-access experiment and actually **pick up the project**.
 
  And the extra point you've just made is important: **the companion is a standalone Fallout 4 mod. ATWB is its backstory/source material, not a prerequisite.** A player who has never heard Tommi's show should still understand Westminster's story. The player who _has_ played ATWB gets an additional layer of recognition and emotional resonance. That's a significant design constraint, and I'll treat it as such.
