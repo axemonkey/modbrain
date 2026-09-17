@@ -1,8 +1,3 @@
----
-layout: fo4.njk
-bodyclass: fo4
----
-
 Ahhh. **Now I see the actual problem.**
 
  Yes — that could work _extremely_ well as a workaround for the lack of persistent conversation context.

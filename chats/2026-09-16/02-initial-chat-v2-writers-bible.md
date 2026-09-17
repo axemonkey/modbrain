@@ -1,8 +1,3 @@
----
-layout: fo4.njk
-bodyclass: fo4
----
-
 Absolutely — here’s the **writer’s story bible version**, with the 2287 correction locked in and the speculative bits clearly separated from what you've established.
 
  # WESTMINSTER / AS THE WORLD BURNS

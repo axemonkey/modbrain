@@ -1,9 +1,4 @@
----
-layout: fo4.njk
-bodyclass: fo4
----
-
- # Westminster / As the World Burns
+# Westminster / As the World Burns
 
  ## The central premise
 
