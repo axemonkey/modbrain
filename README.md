@@ -29,9 +29,9 @@ This is the **authoritative bootstrap document**. It describes where the project
 
 [17/09/2026. 01 – afternoon chat about how to proceed](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-17/01%20afternoon%20chat%20about%20how%20to%20proceed.md)
 
-[17/09/2026. 02 – chat dealing with what XXX might be]()
+[17/09/2026. 02 – chat dealing with what XXX might be](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-17/02%20chat%20dealing%20with%20what%20XXX%20might%20be.md)
 
-[17/09/2026. 03 – OMFG. Project Theseus]()
+[17/09/2026. 03 – OMFG. Project Theseus etc](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-17/03%20wow%20did%20we%20sort%20out%20some%20stuff%20tonight.md)
 
 
 
