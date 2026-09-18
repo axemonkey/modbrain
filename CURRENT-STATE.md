@@ -1,487 +1,412 @@
-Absolutely. I think this should be a **bootstrap document**, not another giant bible: enough for a fresh session to understand the project, distinguish canon from open questions, and know what to read next.
+# CURRENT STATE
 
- Here's the version I'd put in the repo. I've deliberately included the standalone-companion requirement and the distinction between ATWB as source material and the companion as its own story.
+Last updated: 18 September 2026
 
- CURRENT-STATE.md
+This file is the bootstrap authority for the current state of the project.
 
-# CURRENT STATE — WESTMINSTER COMPANION MOD
-
- _Last updated: 17 September 2026_
-
- ## What this repository is
-
- This repository is persistent project context for a Fallout 4 companion/story mod currently referred to as **Westminster**.
-
- The project grew out of the author's first Fallout 4 mod, **As the World Burns (ATWB)**, a custom London pirate-radio show. ATWB fulfilled a long-standing personal ambition to make and perform a radio show; the author wrote and performed all of Tommi's voice acting.
-
- This new mod is related to ATWB, but **must be standalone**.
-
- A player must be able to install and understand the Westminster companion/story without ever having played ATWB or heard Tommi's broadcasts. Familiarity with ATWB should provide an additional layer of recognition and emotional resonance, not information that is necessary to understand the plot.
+The older chat transcripts are development history. They may contain superseded ideas, exploratory thinking, jokes, and decisions that were subsequently changed. When they conflict with this file, this file represents the current working state unless explicitly marked otherwise.
 
 ---
 
- # Source material and reading order
+# PROJECT THESEUS — CURRENT STATE
 
- For a fresh ChatGPT session, read this document first, then consult the following source material as necessary.
+## Core concept
 
- ## Project history
+Project Theseus is a heavily classified, military-funded West-Tek research programme whose origins lie in an attempt to regenerate traumatic injuries suffered by soldiers.
 
- 1. `chats/2026-09-16/01-initial-chat-v1.md`
-   - Exploratory conversation in which the core concept was developed.
-2. `chats/2026-09-16/02-initial-chat-v2-writers-bible.md`
-   - Consolidation of the earlier discussion into a writers' bible.
-   - Useful for distinguishing established ideas from ideas explicitly left unresolved.
-3. `chats/2026-09-16/03-end-of-day.md`
-   - Mostly concerns the attempted external-memory/website solution.
-   - It is useful for understanding how this repository came about, but its proposed website architecture is obsolete and should not be treated as project canon.
+The programme ultimately develops the capability for complete human regeneration/reconstruction.
 
- ## ATWB source material
+The central dramatic fact is:
 
- 4. `resources/atwb.txt`
-   - Plain-text version of the original approximately 15,000-word ATWB document.
-   - This is the machine-readable version of `resources/atwb.pdf`.
-   - The PDF should be regarded as the archival/original version; the TXT is the convenient source for reading.
-   - Formatting in the original is not generally significant. In particular, Tommi's speech over a song intro was sometimes italicised, but is explicitly marked "Over the intro" in the text.
+> **Project Theseus has never successfully performed a complete human regeneration before 2287.**
+
+The machine/procedure is ready for its first full human subject shortly before the Great War.
+
+**Westminster will be its first complete human subject.**
+
+This is a major current canon decision.
 
 ---
 
- # Core concept
+## Trigger
 
- The Westminster story begins with a simple problem:
+### Roger "Trigger"
 
- **Westminster does not feel right.**
+Trigger is a legendary pre-War soldier and crack shot.
 
- He does not initially know why. He investigates the possibility that there is something medically, genetically, psychologically, environmentally, or historically unusual about him.
+His right arm is completely destroyed in a catastrophic injury, leaving nothing viable to reattach.
 
- His investigation gradually becomes an investigation into his ancestry.
+The military does not initially want to create whole-body regeneration. It wants to solve a much more immediate problem:
 
- He moves backwards through his family history, eventually reaching his ancestors in the pre-war world.
+> **Can they regenerate a functioning replacement limb and get an exceptional soldier back into service?**
 
- The apparent question is:
+Trigger's injury therefore becomes the inciting event for the research programme.
 
- > What happened to me?
+### Current working timeline
 
- The deeper question is:
+Trigger's injury is tentatively placed in **2073**, approximately four years before the Great War.
 
- > Who am I?
+This date is useful but is **not yet hard canon**.
 
- The story ultimately establishes that these are not the same question.
+### Trigger's role in the research
 
----
+The initial research objective is rapid, in-situ tissue regeneration.
 
- # Westminster
+The programme subsequently escalates through increasingly ambitious forms of biological reconstruction:
 
- - Westminster is **40 years old in 2287**.
-- He is the protagonist/companion at the centre of the new story.
-- He has an unexplained sense that something about himself is wrong or unresolved.
-- He does not begin with a clear understanding of what he is looking for.
-- He tries to understand himself by looking externally: medicine, genetics, family history, ancestry, mysticism, etc.
-- His investigation takes him to multiple Fallout locations, potentially including **Far Harbor** and **Nuka-World**.
-- He consults people including doctors, herbalists, mystics and fortune tellers.
-- These investigations should not simply consist of obviously false red herrings. The evidence and explanations encountered can be genuine while Westminster's interpretation of them is wrong or incomplete.
+- tissue;
+- skin and muscle;
+- vascular and nervous tissue;
+- bone;
+- complete limbs;
+- organs;
+- increasingly extensive biological replacement/reconstruction;
+- eventually complete human reconstruction.
 
- A central mistake Westminster repeatedly makes is:
+The detailed progression is still to be designed.
 
- > This explains something about me, therefore this explains me.
+### Trigger's fate
 
- The eventual resolution is recognition rather than diagnosis.
+Trigger's ultimate fate is currently unresolved.
 
----
+**Trigger surviving as a ghoul and remaining in the Theseus facility is explicitly a WHAT IF? idea, not current canon.**
 
- # Westminster's lineage
+Current working assumption: Trigger does **not** survive into 2287.
 
- The current working lineage is:
+It is not currently decided whether he ever receives a regenerated arm.
 
- - **March 2077:** Child A is born to Tommi Starr and Abbey Westminster.
-- **September 2077:** Abbey and Child A may visit the US to stay with the Veeks in Salem. This is currently uncertain.
-- **October 2077:** The Great War.
-  - The Fallout 4 player enters Vault 111 with their spouse and Shaun.
-  - Abbey and her seven-month-old baby, Child A, somehow reach Vault 81.
-  - Tommi is presumably still in London and may die there. His exact fate is unresolved.
-- **2112:** Child A, aged 35, has Child B in Vault 81.
-- **2150:** Child B, aged 38, has Child C in Vault 81.
-- **2180:** Child C, aged 30, has Child D.
-- **2215:** Child D, aged 35, has Child E.
-- **2247:** Child E, aged 42, has Westminster.
-- **2287:** The game/story begins. Westminster is 40.
+His importance to the story is that his injury **starts the chain of events** that eventually becomes Project Theseus.
 
- The exact circumstances of Abbey and Child A reaching Vault 81 remain unresolved.
+### Easter egg
 
- Tommi's fate remains unresolved.
+A unique weapon called **"Trigger's Boom"** is a possible hidden Easter egg.
 
- The family tree is important, but the genealogy is ultimately a **mechanism for Westminster's search**, not the answer to his problem.
+This is an optional idea and should not drive the main story.
 
 ---
 
- # Tommi Starr and As the World Burns
+# WEST-TEK / CLASSIFICATION
 
- ATWB is Tommi's story.
+The research is:
 
- Tommi Starr is a 2077 London pirate-radio DJ broadcasting **C-ROK London's _As the World Burns_**.
+- massively classified;
+- military-funded;
+- backed from the highest levels;
+- connected to West-Tek;
+- deliberately compartmentalised.
 
- The radio show is deliberately personal and mundane. Tommi talks about music, friends, family, relationships, his cat, drinking, clothes, food, parties, work, London and everyday annoyances, while the world around him approaches nuclear war.
+The facility is intended to be extremely inconspicuous.
 
- The Fallout historical/worldbuilding information emerges naturally through Tommi's conversations rather than through formal exposition.
+The people working there can appear entirely ordinary and need not obviously identify themselves as scientists or military personnel. The existence of the programme is compartmentalised even among people involved in its operation.
 
- Tommi is not intended to be a heroic prophet who understands the coming apocalypse. He is an ordinary, flawed, funny, complicated person living through extraordinary circumstances.
+The people on the surface may have no idea that an extraordinary biological research programme is taking place beneath them.
 
- This ordinariness is important.
-
- The companion should preserve the sense that history is made up of actual people who lived ordinary lives.
-
----
-
- # The role of ATWB in the companion
-
- The companion is **not ATWB 2** and should not require prior knowledge of ATWB.
-
- Tommi's material should be discoverable through Westminster's investigation.
-
- At first, an ATWB recording is simply an old recording of an unknown person.
-
- Then Westminster discovers that the voice belongs to his ancestor.
-
- For a player who has never played ATWB, this should work as a discovery of a previously unknown human being.
-
- For a player who has played ATWB, the same moment can have additional emotional force because they already know Tommi, Bob, Lois, the music and the world of the original show.
-
- The latter is a reward, not a prerequisite.
-
- The ideal relationship is:
-
- > New player: "Who is this guy?"
-
- > Returning ATWB player: "Oh my God. I know this guy."
-
- The companion must work fully for the first player.
+The project should feel like something that was hidden primarily through **bureaucratic compartmentalisation and mundane surroundings**, rather than through an obviously sinister secret base.
 
 ---
 
- # Tommi as Westminster's "ghost"
+# THE TWO PRINCIPAL RESEARCHERS
 
- Tommi is effectively Westminster's ghost, without necessarily being literally supernatural.
+There are two principal researchers.
 
- Westminster expects to find history, dates, names and genealogy.
+Their roles and eventual personalities remain to be developed.
 
- Instead he encounters a living personality preserved in recordings.
+Their names are currently **TBD**.
 
- Tommi becomes important not because he possesses a secret answer about Westminster, but because Westminster discovers that his ancestry consisted of **real people**.
+### Superseded idea
 
- This changes the meaning of the family tree.
+The previous idea of naming them **Mary and Shelley / Dr Shelley** has been discarded.
 
- The names stop being names.
+It is not current canon.
 
- They become people.
-
- Tommi is the final and most vivid example of this.
+The researchers should feel like real people belonging to the Fallout pre-War world rather than functioning primarily as literary Easter eggs.
 
 ---
 
- # Thematic structure
+# THE DEVELOPMENT OF THESEUS
 
- The broad progression is:
+The detailed history from Trigger's injury to the Great War is the next major development task.
 
- **Something is wrong with me.**
+The intended broad progression is:
 
- ↓
+**Trigger's injury**
+→ military demand for rapid regeneration
+→ West-Tek involvement
+→ early tissue-regeneration research
+→ increasingly successful regeneration of complex tissues
+→ successful limb regeneration
+→ expansion into organ replacement/reconstruction
+→ increasingly extensive biological reconstruction
+→ the conceptual transition from "regeneration" to "reconstruction"
+→ Project Theseus
+→ complete human reconstruction becomes technically possible
+→ preparation for the first full human subject
+→ Great War.
 
- **Something happened before me.**
+The exact chronology, breakthroughs, failures, terminology, and researchers' contributions remain to be established.
 
- ↓
-
- **I need to find out what happened.**
-
- ↓
-
- **My ancestry may explain me.**
-
- ↓
-
- **Every explanation seems to explain something, but not everything.**
-
- ↓
-
- **I have been asking the wrong question.**
-
- ↓
-
- **I need to look inside myself rather than continue looking backwards.**
-
- ↓
-
- **Recognition.**
-
- ↓
-
- **Choice/action.**
-
- The story spends much of its time moving backwards through history.
-
- Eventually Westminster must turn around and move forwards.
+The detailed history should be developed before finalising the bunker archaeology.
 
 ---
 
- # Westminster's transness
+# PROJECT THESEUS AND THE FIRST HUMAN SUBJECT
 
- Westminster is trans.
+Current canon:
 
- This is an important narrative constraint.
+**Theseus has never successfully performed a complete human regeneration before Westminster.**
 
- The story must **not** ultimately reveal that his transness was secretly the genetic disease, mutation, curse, brain condition, radiation effect, or other pathology that all the preceding clues were pointing toward.
+By October 2077, the technology has reached the point where a complete human regeneration is believed to be possible.
 
- His distress and confusion are real.
+The researchers are preparing for the first complete human subject.
 
- His investigation is real.
+The Great War occurs before that procedure can be successfully performed.
 
- His interpretations are incomplete or wrong.
+Westminster therefore becomes the first full human subject **210 years later**.
 
- But his identity is not the disease being diagnosed.
+### Current working October 2077 sequence
 
- The intended movement is:
+The exact dates and events remain subject to development, but the previous working concept was:
 
- **pathology → recognition**
+- around 12 October 2077: whole-body protocol validated;
+- around 19 October 2077: whole-body reconstruction is declared ready for human trial;
+- estimated procedure duration: approximately 96–120 hours;
+- 23 October 2077: the Great War interrupts the project.
 
- rather than:
-
- **mystery → biological explanation of his transness**
-
- The story should ultimately allow Westminster to recognise something about himself rather than have another character authoritatively tell him what he is.
-
----
-
- # The investigation
-
- Possible/explored areas include:
-
- - Vault 81
-- Far Harbor
-- Nuka-World
-- medicine/doctors
-- herbalists
-- mystics
-- fortune tellers
-- genealogy and family records
-- possible genetic explanations
-- possible chronic illness
-- possible neurological/brain-history explanations
-- radiation/Vault-related explanations
-
- These are not all necessarily fixed quests yet.
-
- The important principle is that the investigation should feel like a **genuine attempt to solve a mystery**.
-
- The player should be able to believe that some of the explanations might be correct.
-
- The story should avoid a repetitive structure in which every NPC simply turns out to be wrong.
-
- Instead, Westminster can discover facts that are completely true but draw the wrong conclusion from them.
+The exact sequence on and immediately before 23 October remains unresolved.
 
 ---
 
- # The mystic / final recognition
+# THE FACILITY
 
- Late in the story, Westminster returns to a mystic-like figure.
+The facility is located somewhere in what is now the **Glowing Sea**.
 
- The essential idea is that the mystic tells him, in substance:
+In 2077 this area is simply part of the pre-War Boston / southern Massachusetts landscape and is not yet the Glowing Sea.
 
- > No. It's none of that.
+The exact in-game location is **TBD pending an in-game recce**.
 
- Westminster has spent the story looking outward:
+Possible implementations include:
 
- - at his genes,
-- his body,
-- radiation,
-- medicine,
-- Vault 81,
-- his ancestors,
-- his family history,
-- the pre-war world.
+- a concealed entrance incorporated into the remains of an existing building;
+- a basement/service entrance;
+- a small reinforced door or hatch;
+- another mundane piece of pre-War infrastructure.
 
- The answer requires him to look inward.
+No final choice has been made.
 
- The mystic should **not simply tell Westminster who he is**.
+The facility should be deliberately inconspicuous rather than presenting as an obvious secret bunker.
 
- The important revelation is that Westminster already knows, or can know, if he stops looking for an external diagnosis.
-
- The mystic then directs him to **XXX**.
-
- XXX is currently unresolved.
+The pre-War surface location may have been beneath or within an entirely ordinary building. A diner or similarly mundane establishment is an example of the intended flavour, but **is not currently canon**.
 
 ---
 
- # XXX
+# THE ENTRANCE
 
- **XXX is deliberately still open.**
+The entrance is deliberately difficult to discover and does not identify itself as Project Theseus.
 
- It should not merely be another location containing another piece of lore.
+The exterior does **not** say "Theseus."
 
- The significance of XXX is structural:
+The name Project Theseus is revealed deeper inside the facility as part of the archaeological discovery.
 
- Westminster has spent the story investigating his past.
+The player may discover the entrance before the relevant quest stage.
 
- After recognition, he must go somewhere and **act on what he now knows**.
+However:
 
- The ending therefore needs to transition from:
+> **The entrance cannot be bypassed before the appropriate Westminster quest stage.**
 
- > knowledge
+There is:
 
- to:
+- no lockpicking solution;
+- no hacking solution;
+- no alternate entrance;
+- no explosive/forceful solution;
+- no normal gameplay equivalent of opening it through the console.
 
- > agency.
+If the player finds it early, it is simply a mysterious sealed installation.
 
- The precise location, purpose and action at XXX still need to be developed.
+At the appropriate point in Westminster's quest, Westminster reaches the entrance and uses a password obtained through the mystic.
 
----
-
- # Tommi and Westminster: thematic inheritance
-
- A key thematic symmetry has emerged.
-
- Tommi:
-
- > The world is fucked. Anyway, here's some music.
-
- Westminster begins:
-
- > The world is fucked. Something is wrong with me.
-
- Westminster eventually reaches something closer to:
-
- > The world is fucked. I know who I am. Now what am I going to do?
-
- Tommi cannot prevent the apocalypse.
-
- Westminster cannot change his ancestry or the world he inherited.
-
- But Westminster can choose what he does with himself.
-
- The deepest inheritance from Tommi is therefore not simply DNA, family history or recordings.
-
- It is the idea that even when the world is terrible, a person still gets to decide what kind of person they will be within it.
-
- ATWB contains material supporting this interpretation: Tommi ultimately talks about trying not to make other people's lives worse and about doing slightly more than the bare minimum.
-
- This thematic connection should be preserved without making the companion dependent on prior knowledge of ATWB.
+The intended interaction can draw on the existing Fallout 4-style interaction in which an NPC enters a password to open a secured door, such as Ronnie Shaw opening the Castle armoury.
 
 ---
 
- # What is currently NOT settled
+# THE FACILITY'S ARCHAEOLOGY
 
- Do not accidentally promote these into canon:
+The player should initially have little idea what they have found.
 
- - Tommi's exact fate.
-- The exact circumstances of Abbey and Child A reaching Vault 81.
-- Whether the September 2077 Salem/Veek visit definitely happened.
-- The precise nature of Westminster's initial unexplained feeling/problem.
-- The exact sequence and content of the investigation quests.
-- The precise roles of Far Harbor and Nuka-World.
-- The exact nature of the mystic encounter.
-- How Westminster recognises/understands his identity.
-- The destination and purpose of **XXX**.
-- The final concrete action Westminster takes.
-- Any specific biological/medical explanation that has only appeared as a proposed possibility.
+The discovery should progress approximately from:
 
- These should be treated as **open design questions**, not established facts.
+**ordinary / military / medical**
 
----
+→ increasingly unusual research
 
- # Design principles to preserve
+→ West-Tek
 
- ## Standalone first
+→ advanced biological reconstruction
 
- The companion must make sense without ATWB.
+→ the history of the programme
 
- ATWB knowledge should enrich the experience, never be required to understand it.
+→ **Project Theseus**
 
- ## Genuine mystery
+→ the revelation that the technology is actually capable of complete human reconstruction.
 
- The investigation should feel credible. Red herrings should preferably be true facts interpreted incorrectly rather than arbitrary lies.
+The player should discover the significance of the facility through evidence rather than being told immediately.
 
- ## People, not lore
-
- The genealogy should gradually turn historical names into people.
-
- Tommi's recordings are valuable because they preserve a personality, not because they contain convenient exposition.
-
- ## Recognition, not diagnosis
-
- Westminster's eventual understanding of himself should not reduce his identity to a medical explanation.
-
- ## Past → present → future
-
- The story begins by looking backwards and ends by requiring Westminster to choose what happens next.
-
- ## Knowledge → agency
-
- The resolution should not simply provide another fact. Westminster must do something with what he has learned.
-
- ## Don't over-explain
-
- The story should trust the player to make connections.
-
- ## Preserve uncertainty during development
-
- Not every attractive idea discussed in previous conversations is canon. Later conversations may supersede earlier ones. Distinguish between:
-
- - established decisions,
-- strong working ideas,
-- exploratory possibilities,
-- rejected ideas,
-- and unresolved questions.
+The word **Theseus** should therefore be buried deeper in the facility rather than appearing on the entrance.
 
 ---
 
- # Current project position
+# WESTMINSTER AND THESEUS
 
- The broad conceptual foundation is now strong.
+Westminster will eventually enter the facility with the player.
 
- The next development work should therefore **not** be another attempt to summarise the concept.
+The password required to open the otherwise inaccessible entrance is connected to information supplied by the mystic.
 
- The useful next steps are to develop the actual companion:
+Westminster then becomes the first complete human subject of Project Theseus.
 
- 1. Define Westminster as a character independently of his mystery.
-2. Define exactly what "doesn't feel right" means from the player's perspective at the beginning.
-3. Design the progression of the investigation.
-4. Decide which Fallout locations/NPCs meaningfully contribute to that progression.
-5. Work out how the genealogy is discovered and how much of it the player needs to understand.
-6. Determine how and when Tommi's recordings enter the story.
-7. Develop the recognition scene.
-8. Solve **XXX**.
-9. Design the final action/choice that converts recognition into agency.
-10. Ensure the entire story remains comprehensible to a player who has never played ATWB.
+The machine has effectively been waiting since 2077 for its first successful full human regeneration.
 
- The project should remain a **Westminster story first and an ATWB connection second**.
+This creates the central historical symmetry:
+
+> **The pre-War researchers reached the threshold of complete human regeneration and then lost the world before they could perform it.**
+
+> **Westminster performs the procedure 210 years later.**
 
 ---
 
- # Working shorthand
+# TRIGGER / THESEUS THEMATIC CONNECTION
 
- When continuing this project, the following phrases refer to the established concepts above:
+The origin of Theseus is deliberately small and practical:
 
- - **ATWB** = _As the World Burns_, Tommi Starr's 2077 London radio show/mod.
-- **Westminster** = the 40-year-old protagonist/companion in 2287.
-- **Tommi** = Westminster's ancestor and the protagonist/DJ of ATWB.
-- **the lineage** = Tommi → Abbey → A → B → C → D → E → Westminster.
-- **the investigation** = Westminster's attempt to understand why he does not feel right.
-- **the wrong question** = "What happened to me?" / treating an explanation of a characteristic as an explanation of the whole person.
-- **recognition** = Westminster looking inward and understanding himself rather than receiving an external diagnosis.
-- **XXX** = the unresolved destination/action that follows recognition.
-- **standalone requirement** = the companion must work for players who have never experienced ATWB.
+> A soldier loses an arm.
+>
+> The military wants him back.
+>
+> Someone asks whether the arm can simply be grown back.
+>
+> The research begins.
+
+Nobody initially sets out to solve the philosophical problem of reconstructing an entire human being.
+
+The ambition grows as the science succeeds.
+
+The eventual name **Theseus** should emerge naturally from this progression.
+
+The detailed reason for the name, the point at which it is coined, and who coins it remain TBD.
 
 ---
 
- # Current guiding question
+# WHAT IF? / NON-CANON IDEAS
 
- The project is no longer primarily asking:
+These ideas have been discussed but are not current canon.
 
- > **What is wrong with Westminster?**
+### Trigger as a ghoul
 
- It is asking:
+Trigger may potentially have survived into the post-War period as a ghoul/feral ghoul somewhere in or around the facility.
 
- > **What happens when Westminster finally stops trying to find the answer somewhere outside himself?**
+**Not current canon.**
 
- And then:
+Current assumption: he did not survive.
 
- > **What does he do once he knows?**
+### Mary / Shelley researchers
 
- That should work well as the **first thing a fresh session reads**. I would also put the explicit raw-file URLs in `README.md`, as we discussed, so the bootstrap chain is deterministic.
+The two principal researchers were previously imagined as Mary and Shelley.
+
+**Discarded.**
+
+Their eventual names remain TBD.
+
+### Exact facility location
+
+Not yet decided.
+
+Requires an in-game Glowing Sea recce.
+
+### Surface building
+
+A diner or other mundane building is an appealing possibility but is not canon.
+
+---
+
+# ABBEY / WESTMINSTER FAMILY HISTORY
+
+This is a separate but connected strand of the project.
+
+The current working family chronology is:
+
+| Date | Event |
+|---|---|
+| **March 2077** | Tommi Starr and Abbey Westminster have Child A. |
+| **September 2077** | Abbey and seven-month-old A may be in the United States, possibly staying with the Veeks in Salem. This remains tentative. |
+| **October 2077** | The Great War. Abbey and A somehow make their way into Vault 81. Tommi is in London; his fate is currently unknown. |
+| **2112** | A, aged 35, has Child B in Vault 81. |
+| **2150** | B, aged 38, has Child C in Vault 81. |
+| **2180** | C, aged 30, has Child D. |
+| **2215** | D, aged 35, has Child E. |
+| **2247** | E, aged 42, has Westminster. |
+| **2287** | Westminster, aged 40, begins his story. |
+
+Vault 81 is currently the working location for Abbey and the family's subsequent lineage.
+
+The original rationale was that the family had initially been imagined as entering an invented vault outside the Commonwealth, possibly in the New York area. Once Westminster's ancestry became part of the Commonwealth story, it made more sense to use an actual in-game vault.
+
+Vault 81 was chosen as a logical fit because it is:
+
+- non-hostile;
+- inhabited;
+- socially developed;
+- rich in existing NPCs and locations that can potentially be used by the story;
+- already part of the vanilla game.
+
+The exact circumstances of Abbey's arrival in Vault 81 remain TBD.
+
+---
+
+# TOMMI / ATWB SEPARATION
+
+The standalone **As the World Burns (ATWB)** material and this mod's story must remain separate.
+
+Tommi's original ATWB compilation/tapes sent to George Veek in 2076 are part of the separate ATWB material.
+
+Westminster does **not** obtain the original ATWB tapes.
+
+A separate personal recording made by Tommi may have been carried by Abbey to America and eventually into Vault 81.
+
+That separate recording may survive as a family heirloom and may eventually be discovered/heard by Westminster.
+
+This is the current conceptual bridge between Tommi's voice and Westminster's family history without making the original ATWB recordings part of the mod.
+
+The exact recording, its contents, and its chain of custody remain TBD.
+
+---
+
+# WORKING PRINCIPLE
+
+Do not prematurely resolve details simply because they can be resolved.
+
+When a detail does not constrain the current design, leave it TBD or in WHAT IF? rather than inventing unnecessary canon.
+
+In particular, avoid prematurely fixing:
+
+- names;
+- exact dates;
+- minor biographies;
+- exact facility geography;
+- detailed family history;
+- terminal wording;
+- implementation details that require an in-game recce.
+
+The repository's older chats remain valuable as development history and should be consulted when reconstructing the reasoning behind an existing decision.
+
+When historical reasoning cannot be recovered with confidence, do not invent a false recollection. Mark the matter as unresolved and work from the current state.
+
+---
+
+# NEXT DEVELOPMENT PRIORITY
+
+**Build the pre-War history of Project Theseus, beginning with Trigger's injury around 2073 and following the research through to 23 October 2077.**
+
+The next immediate question is:
+
+> **What happened to Trigger, and what did the military/West-Tek do in response?**
+
+The detailed research progression should then be constructed chronologically from that starting point.
