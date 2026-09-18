@@ -21,11 +21,19 @@ This is the **authoritative bootstrap document**. It describes where the project
 
 ### 2. Development history — read in chronological order
 
-[01 — Initial chat](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-16/01-initial-chat-v1.md)
+[16/09/2026. 01 — Initial chat](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-16/01-initial-chat-v1.md)
 
-[02 — Writers' Bible](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-16/02-initial-chat-v2-writers-bible.md)
+[16/09/2026. 02 — Writers' Bible](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-16/02-initial-chat-v2-writers-bible.md)
 
-[03 — End of day](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-16/03-end-of-day.md)
+[16/09/2026. 03 — End of day](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-16/03-end-of-day.md)
+
+[17/09/2026. 01 – afternoon chat about how to proceed](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-17/01%20afternoon%20chat%20about%20how%20to%20proceed.md)
+
+[17/09/2026. 02 – chat dealing with what XXX might be]()
+
+[17/09/2026. 03 – OMFG. Project Theseus]()
+
+
 
 These files contain the project's development history: decisions, reasoning, alternatives, brainstorming, discoveries and unresolved questions.
 
