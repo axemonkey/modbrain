@@ -1,3 +1,6 @@
+Absolutely — here it is as literal Markdown, ready to paste into `README.md`.
+
+```
 # modbrain
 
 Persistent context and working memory for the Westminster companion mod.
@@ -109,3 +112,4 @@ When a substantial project decision is made, the persistent context should event
 `CURRENT-STATE.md` should therefore remain a concise representation of the **current state**, rather than becoming an undifferentiated transcript.
 
 The dated chat files preserve the history; `CURRENT-STATE.md` preserves what is true **now**.
+```
