@@ -35,7 +35,7 @@ This is the **authoritative bootstrap document**. It describes where the project
 
 [18/09/2026. 01 – Trigger and the Beijing Incident](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-18/01-trigger-and-the-beijing-incident.md)
 
-[23/09/2026. 01 – Trigger's arm](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-23/01%20-%20%23%20Development%20Session%20%E2%80%94%202026-09-23.md)
+[23/09/2026. 01 – Trigger's arm](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-23/01-triggers-arm.md)
 
 These files contain the project's development history: decisions, reasoning, alternatives, brainstorming, discoveries and unresolved questions.
 
