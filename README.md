@@ -33,6 +33,7 @@ This is the **authoritative bootstrap document**. It describes where the project
 
 [17/09/2026. 03 – OMFG. Project Theseus etc](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-17/03-wow-project-theseus.md)
 
+[18/09/2026. 01 – Trigger and the Beijing Incident](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-18/01-trigger-and-the-beijing-incident.md)
 
 
 These files contain the project's development history: decisions, reasoning, alternatives, brainstorming, discoveries and unresolved questions.
