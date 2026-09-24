@@ -1,6 +1,3 @@
-Absolutely — here it is as literal Markdown, ready to paste into `README.md`.
-
-```
 # modbrain
 
 Persistent context and working memory for the Westminster companion mod.
@@ -36,6 +33,8 @@ This is the **authoritative bootstrap document**. It describes where the project
 [18/09/2026. 01 – Trigger and the Beijing Incident](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-18/01-trigger-and-the-beijing-incident.md)
 
 [23/09/2026. 01 – Trigger's arm](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-23/01-triggers-arm.md)
+
+[24/09/2026. 01 – Of ART and assets](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-24/01-of-art-and-assets.md)
 
 These files contain the project's development history: decisions, reasoning, alternatives, brainstorming, discoveries and unresolved questions.
 
@@ -114,4 +113,3 @@ When a substantial project decision is made, the persistent context should event
 `CURRENT-STATE.md` should therefore remain a concise representation of the **current state**, rather than becoming an undifferentiated transcript.
 
 The dated chat files preserve the history; `CURRENT-STATE.md` preserves what is true **now**.
-```
