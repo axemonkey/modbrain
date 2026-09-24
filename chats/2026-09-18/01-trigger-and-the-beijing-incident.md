@@ -1,6 +1,3 @@
-Absolutely. Here is the corrected version with that distinction fixed. I've kept everything else unchanged so you can replace the previous file directly.
-
-```
 # Project Theseus — Trigger and Origin
 ## Development checkpoint — 18 September 2026
 
@@ -476,4 +473,3 @@ Specifically:
 - What finally makes complete human regeneration possible?
 
 The key constraint is that the progression should feel like **four years of increasingly successful scientific problem-solving**, not one miraculous invention.
-```

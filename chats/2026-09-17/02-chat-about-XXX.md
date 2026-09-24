@@ -1,6 +1,3 @@
-Absolutely. Here's a compact-but-sufficient record of this discussion, ready to drop into `chats/` as the next dated conversation file.
-
-```
 # XXX — Westminster's Transformation
 
 ## Discussion
@@ -319,4 +316,3 @@ The next discussion should attack these questions:
 The central principle to preserve is:
 
 > **XXX is not a magic gender-change device. It is a forgotten pre-War machine capable of reconstructing a human being from a biological specification — and Westminster is using it to become physically what she has finally recognised herself to be.**
-```
