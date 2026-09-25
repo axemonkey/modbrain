@@ -1,412 +1,461 @@
 # CURRENT STATE
 
-Last updated: 18 September 2026
+*(Last updated 25/09/2026)*
 
-This file is the bootstrap authority for the current state of the project.
+## Project
 
-The older chat transcripts are development history. They may contain superseded ideas, exploratory thinking, jokes, and decisions that were subsequently changed. When they conflict with this file, this file represents the current working state unless explicitly marked otherwise.
+**Modbrain** — standalone Fallout 4 companion story centred on Westminster and the discovery of Project Theseus.
 
----
+This document is the bootstrap authority for the current state of the project.
 
-# PROJECT THESEUS — CURRENT STATE
+When reconstructing project context:
 
-## Core concept
-
-Project Theseus is a heavily classified, military-funded West-Tek research programme whose origins lie in an attempt to regenerate traumatic injuries suffered by soldiers.
-
-The programme ultimately develops the capability for complete human regeneration/reconstruction.
-
-The central dramatic fact is:
-
-> **Project Theseus has never successfully performed a complete human regeneration before 2287.**
-
-The machine/procedure is ready for its first full human subject shortly before the Great War.
-
-**Westminster will be its first complete human subject.**
-
-This is a major current canon decision.
+1. Read this document first.
+2. Read later dated development chats where necessary.
+3. Later explicit decisions supersede older discussions.
+4. Dated chats are development history, not automatically current canon.
+5. ATWB material is source/reference material and is not automatically canon for this project.
 
 ---
 
-## Trigger
+# 1. Core Story Premise
 
-### Roger "Trigger"
+The story eventually leads Westminster to a surviving pre-War West-Tek research facility associated with **Project Theseus**.
 
-Trigger is a legendary pre-War soldier and crack shot.
+Theseus is the culmination of a classified research programme investigating whether a human being can be reconstructed from something deeper than their currently damaged physical body.
 
-His right arm is completely destroyed in a catastrophic injury, leaving nothing viable to reattach.
+Westminster knowingly chooses to undergo the procedure.
 
-The military does not initially want to create whole-body regeneration. It wants to solve a much more immediate problem:
+The procedure takes approximately **96–120 hours**.
 
-> **Can they regenerate a functioning replacement limb and get an exceptional soldier back into service?**
+She becomes the **first complete human being ever reconstructed by the technology**.
 
-Trigger's injury therefore becomes the inciting event for the research programme.
+The Great War occurs before the first intended complete-human trial can take place, leaving the facility and its technology dormant for approximately 210 years.
 
-### Current working timeline
+When Westminster finally emerges, the emotional result should be profound and positive: she is genuinely, overwhelmingly happy.
 
-Trigger's injury is tentatively placed in **2073**, approximately four years before the Great War.
+The central thematic question is the **Ship of Theseus** problem:
 
-This date is useful but is **not yet hard canon**.
+> If every physical component of a human being is replaced, is the resulting person still the same person?
 
-### Trigger's role in the research
+The story's answer is demonstrated through Westminster rather than argued abstractly:
 
-The initial research objective is rapid, in-situ tissue regeneration.
+**Yes. Westminster remains Westminster.**
 
-The programme subsequently escalates through increasingly ambitious forms of biological reconstruction:
+---
 
-- tissue;
-- skin and muscle;
-- vascular and nervous tissue;
-- bone;
-- complete limbs;
+# 2. The Technological Lineage
+
+Project Theseus is not invented fully formed.
+
+Its history begins with an earlier West-Tek/military medical programme known as **BattlefieldBuddy**.
+
+## BattlefieldBuddy
+
+BattlefieldBuddy was an advanced battlefield regenerative first-aid system.
+
+Its original purpose was to repair severe physical trauma rapidly using a combination of:
+
+- advanced microsurgical techniques;
+- highly controlled radiation;
+- biological regeneration.
+
+Initially, the technology could repair damaged tissue but could not reliably create structures that were completely absent.
+
+During experimentation, however, an anomalous result occurs.
+
+A wounded soldier has an **ear grown from his thigh**.
+
+The result is horrifying and scientifically inexplicable under the original model of how BattlefieldBuddy is supposed to work.
+
+The important discovery is that the system is apparently not merely reading the patient's current DNA or repairing tissue according to a generic human template.
+
+It is accessing something specific to the individual.
+
+This becomes the first evidence of what later becomes known as the person's **ART**.
+
+BattlefieldBuddy is ultimately shelved because its regenerative behaviour cannot be reliably controlled.
+
+The research is not forgotten.
+
+---
+
+# 3. ART — Autologous Reconstruction Template
+
+The current canonical technical term is:
+
+**ART — Autologous Reconstruction Template**
+
+This replaces earlier terminology such as "Somatic Reference State."
+
+ART is the individual's biological reconstruction template: the deeper representation of the person's physical state that the regeneration technology is capable of accessing.
+
+The precise biological mechanism remains intentionally unresolved.
+
+The researchers initially do not understand that ART exists.
+
+The strange BattlefieldBuddy failures are among the earliest clues.
+
+ART should not be treated as an explicitly supernatural "soul."
+
+The story may allow the researchers to wonder whether their discoveries have implications beyond conventional biology, but the technology itself remains grounded in the setting's science.
+
+The younger Trigger arm is particularly important evidence because it demonstrates that the system can reconstruct **a real previous physical state of the same individual**, rather than simply growing generic replacement tissue.
+
+---
+
+# 4. Trigger
+
+Around **2073**, Colonel Roger "Trigger" Lloyd loses his right arm during a covert operation in China.
+
+The military remembers the old BattlefieldBuddy research.
+
+Trigger becomes the catalyst for reviving the abandoned regenerative programme.
+
+The instruction to West-Tek is essentially:
+
+> Make his arm grow back.
+
+Trigger volunteers to become the first human subject in the revived limb-regeneration work.
+
+## First human limb reconstruction
+
+The first attempt appears successful.
+
+When the chamber is opened, however, the regenerated arm is not Trigger's current adult arm.
+
+It is an anatomically correct version of **Trigger's own arm from when he was approximately ten years old**.
+
+The chamber itself is opaque.
+
+The researchers do not watch the reconstruction happen visually. They monitor instrumentation and discover the result only when the chamber is opened.
+
+The machine does not announce Trigger's age or explain what has happened.
+
+The researchers initially have to investigate the result themselves.
+
+This is not treated as a simple mechanical malfunction.
+
+It is the breakthrough.
+
+The arm demonstrates that the technology is accessing something specific to Trigger's biological history.
+
+The researchers begin to understand ART.
+
+The younger arm is associated with a particularly happy period of Trigger's life, which is narratively significant, but the exact relationship between emotional history and ART remains an open scientific question.
+
+## Second human limb reconstruction
+
+The researchers learn how to anchor reconstruction to Trigger's intended/current physical state.
+
+A second procedure successfully produces **Trigger's adult arm**.
+
+This establishes reliable human limb reconstruction.
+
+Trigger therefore becomes the first successful human subject for the technology's regenerative limb work, but **he is not the first complete human Theseus subject**.
+
+That distinction is important and must remain intact.
+
+---
+
+# 5. From Limb Regeneration to Theseus
+
+The next major development is the progression from successful adult limb reconstruction to complete human reconstruction.
+
+This progression has **not yet been fully designed**.
+
+The intended sequence should establish a believable escalation through increasingly complex reconstruction, potentially including:
+
+- more complicated tissues;
+- internal structures;
 - organs;
-- increasingly extensive biological replacement/reconstruction;
+- extensive simultaneous reconstruction;
+- increasingly complete restoration of a human body;
 - eventually complete human reconstruction.
 
-The detailed progression is still to be designed.
+The researchers must progressively discover what ART represents, how it can be interrogated or anchored, and how a reconstruction can be made sufficiently complete and stable to reproduce an entire individual.
 
-### Trigger's fate
+The transition from the Trigger experiments to the formal **Project Theseus** programme still needs to be developed.
 
-Trigger's ultimate fate is currently unresolved.
-
-**Trigger surviving as a ghoul and remaining in the Theseus facility is explicitly a WHAT IF? idea, not current canon.**
-
-Current working assumption: Trigger does **not** survive into 2287.
-
-It is not currently decided whether he ever receives a regenerated arm.
-
-His importance to the story is that his injury **starts the chain of events** that eventually becomes Project Theseus.
-
-### Easter egg
-
-A unique weapon called **"Trigger's Boom"** is a possible hidden Easter egg.
-
-This is an optional idea and should not drive the main story.
+This is the immediate current writing/design task.
 
 ---
 
-# WEST-TEK / CLASSIFICATION
+# 6. Project Theseus
 
-The research is:
+The name **Project Theseus** belongs to the later stage of the research.
 
-- massively classified;
-- military-funded;
-- backed from the highest levels;
-- connected to West-Tek;
-- deliberately compartmentalised.
+Earlier BattlefieldBuddy work should not retroactively be called Theseus.
 
-The facility is intended to be extremely inconspicuous.
+Theseus is the programme that emerges once the researchers understand that their technology may be capable of reconstructing an entire human being.
 
-The people working there can appear entirely ordinary and need not obviously identify themselves as scientists or military personnel. The existence of the programme is compartmentalised even among people involved in its operation.
+The programme is highly classified and compartmentalised.
 
-The people on the surface may have no idea that an extraordinary biological research programme is taking place beneath them.
+The research is associated with West-Tek and the U.S. military.
 
-The project should feel like something that was hidden primarily through **bureaucratic compartmentalisation and mundane surroundings**, rather than through an obviously sinister secret base.
+The facility eventually encountered by Westminster is located in what is now the **Glowing Sea**.
 
----
+The exact location and surface access arrangement remain unresolved.
 
-# THE TWO PRINCIPAL RESEARCHERS
+The facility should feel as though the player is archaeologically uncovering layers of increasingly strange history:
 
-There are two principal researchers.
+1. apparently mundane military/medical infrastructure;
+2. West-Tek research;
+3. increasingly unusual regenerative biology;
+4. evidence of ART;
+5. increasingly ambitious reconstruction experiments;
+6. Project Theseus;
+7. the interrupted complete-human experiment.
 
-Their roles and eventual personalities remain to be developed.
+The entrance should not simply announce "PROJECT THESEUS."
 
-Their names are currently **TBD**.
+The player should have to discover what the facility actually contains.
 
-### Superseded idea
+The entrance also should not be bypassable through an ordinary early-game solution such as:
 
-The previous idea of naming them **Mary and Shelley / Dr Shelley** has been discarded.
+- lockpicking;
+- hacking;
+- explosives;
+- brute force.
 
-It is not current canon.
-
-The researchers should feel like real people belonging to the Fallout pre-War world rather than functioning primarily as literary Easter eggs.
-
----
-
-# THE DEVELOPMENT OF THESEUS
-
-The detailed history from Trigger's injury to the Great War is the next major development task.
-
-The intended broad progression is:
-
-**Trigger's injury**
-→ military demand for rapid regeneration
-→ West-Tek involvement
-→ early tissue-regeneration research
-→ increasingly successful regeneration of complex tissues
-→ successful limb regeneration
-→ expansion into organ replacement/reconstruction
-→ increasingly extensive biological reconstruction
-→ the conceptual transition from "regeneration" to "reconstruction"
-→ Project Theseus
-→ complete human reconstruction becomes technically possible
-→ preparation for the first full human subject
-→ Great War.
-
-The exact chronology, breakthroughs, failures, terminology, and researchers' contributions remain to be established.
-
-The detailed history should be developed before finalising the bunker archaeology.
+The mystic eventually provides the password or equivalent access information required to enter at the appropriate point in the story.
 
 ---
 
-# PROJECT THESEUS AND THE FIRST HUMAN SUBJECT
+# 7. The Complete-Human Trial
 
-Current canon:
+Westminster is the first complete human subject.
 
-**Theseus has never successfully performed a complete human regeneration before Westminster.**
+The intended first full-human trial occurs in **October 2077**, immediately before the Great War.
 
-By October 2077, the technology has reached the point where a complete human regeneration is believed to be possible.
+The exact identity of the originally intended subject, the precise date, and the events surrounding the trial remain unresolved.
 
-The researchers are preparing for the first complete human subject.
+The Great War interrupts the research before the intended complete-human experiment can proceed as planned.
 
-The Great War occurs before that procedure can be successfully performed.
+The facility survives in some form and remains operational enough for Westminster to eventually use the technology approximately 210 years later.
 
-Westminster therefore becomes the first full human subject **210 years later**.
-
-### Current working October 2077 sequence
-
-The exact dates and events remain subject to development, but the previous working concept was:
-
-- around 12 October 2077: whole-body protocol validated;
-- around 19 October 2077: whole-body reconstruction is declared ready for human trial;
-- estimated procedure duration: approximately 96–120 hours;
-- 23 October 2077: the Great War interrupts the project.
-
-The exact sequence on and immediately before 23 October remains unresolved.
+Exactly how the facility, power systems, machinery and records survive remains to be established.
 
 ---
 
-# THE FACILITY
+# 8. Westminster
 
-The facility is located somewhere in what is now the **Glowing Sea**.
+Westminster's identity is never something the machine "discovers" for her.
 
-In 2077 this area is simply part of the pre-War Boston / southern Massachusetts landscape and is not yet the Glowing Sea.
+She knows who she is.
 
-The exact in-game location is **TBD pending an in-game recce**.
+She consciously chooses to undergo the Theseus procedure.
 
-Possible implementations include:
+The machine reconstructs her because **she chooses to be reconstructed**.
 
-- a concealed entrance incorporated into the remains of an existing building;
-- a basement/service entrance;
-- a small reinforced door or hatch;
-- another mundane piece of pre-War infrastructure.
+This distinction is central to the character and theme.
 
-No final choice has been made.
+The procedure should not function as a revelation that tells Westminster whether she is "really" Westminster.
 
-The facility should be deliberately inconspicuous rather than presenting as an obvious secret bunker.
+The result demonstrates that the reconstruction technology can reproduce the individual in a meaningful and continuous sense.
 
-The pre-War surface location may have been beneath or within an entirely ordinary building. A diner or similarly mundane establishment is an example of the intended flavour, but **is not currently canon**.
+Westminster emerges happy.
 
----
+Her emotional response is not intended to be horror, existential collapse, or uncertainty about whether she survived.
 
-# THE ENTRANCE
+She knows herself.
 
-The entrance is deliberately difficult to discover and does not identify itself as Project Theseus.
-
-The exterior does **not** say "Theseus."
-
-The name Project Theseus is revealed deeper inside the facility as part of the archaeological discovery.
-
-The player may discover the entrance before the relevant quest stage.
-
-However:
-
-> **The entrance cannot be bypassed before the appropriate Westminster quest stage.**
-
-There is:
-
-- no lockpicking solution;
-- no hacking solution;
-- no alternate entrance;
-- no explosive/forceful solution;
-- no normal gameplay equivalent of opening it through the console.
-
-If the player finds it early, it is simply a mysterious sealed installation.
-
-At the appropriate point in Westminster's quest, Westminster reaches the entrance and uses a password obtained through the mystic.
-
-The intended interaction can draw on the existing Fallout 4-style interaction in which an NPC enters a password to open a secured door, such as Ronnie Shaw opening the Castle armoury.
+She is herself.
 
 ---
 
-# THE FACILITY'S ARCHAEOLOGY
+# 9. Reconstruction Chamber / Technical Implementation
 
-The player should initially have little idea what they have found.
+The chamber used for regeneration is currently envisioned as an **opaque enclosure**.
 
-The discovery should progress approximately from:
+Researchers monitor the process through instrumentation rather than watching the biological reconstruction directly.
 
-**ordinary / military / medical**
+This is useful both narratively and technically: the researchers must interpret evidence and wait for the chamber to open.
 
-→ increasingly unusual research
+For the Fallout 4 implementation, the current prototype direction is to use the vanilla **Cryo Pod lying-down furniture/animation** as the basic interaction.
 
-→ West-Tek
+The visible chamber can potentially be constructed around that interaction later.
 
-→ advanced biological reconstruction
+The **Pulowski Preservation Shelter** is no longer the preferred solution for the chamber.
 
-→ the history of the programme
+Institute/FEV-related assets may be useful as mesh donors or visual references.
 
-→ **Project Theseus**
+Custom modelling should be deferred until the basic interaction and scene have been established.
 
-→ the revelation that the technology is actually capable of complete human reconstruction.
-
-The player should discover the significance of the facility through evidence rather than being told immediately.
-
-The word **Theseus** should therefore be buried deeper in the facility rather than appearing on the entrance.
+The exact final visual design remains open.
 
 ---
 
-# WESTMINSTER AND THESEUS
+# 10. Tone and Presentation
 
-Westminster will eventually enter the facility with the player.
+The story should feel like a genuine Fallout discovery rather than a science-fiction exposition dump.
 
-The password required to open the otherwise inaccessible entrance is connected to information supplied by the mystic.
+The player should encounter physical evidence, records, environmental storytelling and increasingly strange discoveries.
 
-Westminster then becomes the first complete human subject of Project Theseus.
+The scientific material should be comprehensible without requiring the player to understand the underlying theory in advance.
 
-The machine has effectively been waiting since 2077 for its first successful full human regeneration.
+The story should retain mystery without making the science deliberately nonsensical.
 
-This creates the central historical symmetry:
+The emotional centre is Westminster and her relationship with her own identity.
 
-> **The pre-War researchers reached the threshold of complete human regeneration and then lost the world before they could perform it.**
-
-> **Westminster performs the procedure 210 years later.**
+The horror, where present, should come primarily from the implications and history of the research rather than gratuitous gore.
 
 ---
 
-# TRIGGER / THESEUS THEMATIC CONNECTION
+# 11. ATWB Relationship
 
-The origin of Theseus is deliberately small and practical:
+The standalone story must remain understandable without prior knowledge of **ATWB**.
 
-> A soldier loses an arm.
->
-> The military wants him back.
->
-> Someone asks whether the arm can simply be grown back.
->
-> The research begins.
+Tommi, Abbey, Westminster's family history and other ATWB material may connect to the project where appropriate, but those connections must be deliberately established rather than assumed.
 
-Nobody initially sets out to solve the philosophical problem of reconstructing an entire human being.
+ATWB source material is therefore reference material.
 
-The ambition grows as the science succeeds.
+Existing ATWB material should not automatically become canon simply because it exists there.
 
-The eventual name **Theseus** should emerge naturally from this progression.
-
-The detailed reason for the name, the point at which it is coined, and who coins it remain TBD.
+The standalone project must be internally coherent on its own.
 
 ---
 
-# WHAT IF? / NON-CANON IDEAS
+# 12. Current Canonical Constraints
 
-These ideas have been discussed but are not current canon.
+The following should be treated as established unless explicitly changed later:
 
-### Trigger as a ghoul
-
-Trigger may potentially have survived into the post-War period as a ghoul/feral ghoul somewhere in or around the facility.
-
-**Not current canon.**
-
-Current assumption: he did not survive.
-
-### Mary / Shelley researchers
-
-The two principal researchers were previously imagined as Mary and Shelley.
-
-**Discarded.**
-
-Their eventual names remain TBD.
-
-### Exact facility location
-
-Not yet decided.
-
-Requires an in-game Glowing Sea recce.
-
-### Surface building
-
-A diner or other mundane building is an appealing possibility but is not canon.
-
----
-
-# ABBEY / WESTMINSTER FAMILY HISTORY
-
-This is a separate but connected strand of the project.
-
-The current working family chronology is:
-
-| Date | Event |
-|---|---|
-| **March 2077** | Tommi Starr and Abbey Westminster have Child A. |
-| **September 2077** | Abbey and seven-month-old A may be in the United States, possibly staying with the Veeks in Salem. This remains tentative. |
-| **October 2077** | The Great War. Abbey and A somehow make their way into Vault 81. Tommi is in London; his fate is currently unknown. |
-| **2112** | A, aged 35, has Child B in Vault 81. |
-| **2150** | B, aged 38, has Child C in Vault 81. |
-| **2180** | C, aged 30, has Child D. |
-| **2215** | D, aged 35, has Child E. |
-| **2247** | E, aged 42, has Westminster. |
-| **2287** | Westminster, aged 40, begins his story. |
-
-Vault 81 is currently the working location for Abbey and the family's subsequent lineage.
-
-The original rationale was that the family had initially been imagined as entering an invented vault outside the Commonwealth, possibly in the New York area. Once Westminster's ancestry became part of the Commonwealth story, it made more sense to use an actual in-game vault.
-
-Vault 81 was chosen as a logical fit because it is:
-
-- non-hostile;
-- inhabited;
-- socially developed;
-- rich in existing NPCs and locations that can potentially be used by the story;
-- already part of the vanilla game.
-
-The exact circumstances of Abbey's arrival in Vault 81 remain TBD.
+- Westminster is the first **complete** human Theseus subject.
+- Trigger is not a complete-human Theseus subject.
+- Trigger's regenerated arm experiments precede the formal Theseus programme.
+- Trigger's first regenerated arm is approximately his ten-year-old arm.
+- Trigger's second regenerated arm is his correct adult arm.
+- The younger arm is evidence leading to the discovery/understanding of ART.
+- ART stands for **Autologous Reconstruction Template**.
+- BattlefieldBuddy predates Project Theseus.
+- BattlefieldBuddy is the origin of the regenerative technology lineage.
+- The strange BattlefieldBuddy failures are early evidence of ART.
+- The Great War interrupts the pre-War research.
+- The complete-human procedure takes approximately 96–120 hours.
+- Westminster knowingly chooses the procedure.
+- Westminster remains Westminster after complete reconstruction.
+- The Theseus facility is in/around the present-day Glowing Sea.
+- The facility's exact location remains TBD.
+- The entrance is not simply labelled "Theseus."
+- The entrance should require an appropriate story-specific access solution.
+- The mystic ultimately supplies the required password/access information.
+- The chamber is opaque.
+- Researchers monitor the procedure through instrumentation.
+- The vanilla Cryo Pod is the current prototype basis for the lying-down interaction.
+- Pulowski is no longer the preferred chamber solution.
+- Custom modelling is deferred until the basic implementation is working.
 
 ---
 
-# TOMMI / ATWB SEPARATION
+# 13. Significant Open Questions
 
-The standalone **As the World Burns (ATWB)** material and this mod's story must remain separate.
+## Scientific history
 
-Tommi's original ATWB compilation/tapes sent to George Veek in 2076 are part of the separate ATWB material.
+- What precisely happened during Trigger's covert operation in China?
+- What caused the loss of his arm?
+- What was Trigger's emergency treatment?
+- What exactly was BattlefieldBuddy capable of before the Trigger programme?
+- What mechanism produces the strange "wrong body part" results?
+- What exactly is ART at the biological/technical level?
+- Why does the first Trigger reconstruction produce his younger arm?
+- What role, if any, does emotional history play in ART?
+- How do researchers distinguish between a historical ART state and the desired current state?
+- What experiments bridge successful limb regeneration and whole-body reconstruction?
+- Which organs/tissues prove especially difficult?
+- When does the programme formally become Project Theseus?
+- Who are the principal researchers?
+- What institutional/military pressures drive the escalation?
 
-Westminster does **not** obtain the original ATWB tapes.
+## 2077
 
-A separate personal recording made by Tommi may have been carried by Abbey to America and eventually into Vault 81.
+- Who is intended to be the first complete-human subject?
+- What is the exact date/time of the intended trial?
+- What happens immediately before the Great War?
+- How does the facility survive?
+- Why does the Theseus system remain usable 210 years later?
+- What records survive?
 
-That separate recording may survive as a family heirloom and may eventually be discovered/heard by Westminster.
+## Facility
 
-This is the current conceptual bridge between Tommi's voice and Westminster's family history without making the original ATWB recordings part of the mod.
+- Exact location in the Glowing Sea.
+- Surface entrance design.
+- Internal layout.
+- Power source and long-term maintenance.
+- Which sections remain accessible.
+- What environmental evidence reveals the research history.
+- How the player discovers the chronology.
 
-The exact recording, its contents, and its chain of custody remain TBD.
+## Westminster
+
+- Exactly why she chooses Theseus.
+- What she expects the procedure to do.
+- What she experiences, if anything, during the 96–120 hour reconstruction.
+- What physical/emotional details demonstrate continuity after emergence.
+- How the procedure affects her understanding of herself.
+
+## Story / implementation
+
+- Final chamber appearance.
+- Final animation/interaction implementation.
+- Exact asset set.
+- How much of the research history is delivered through terminals, holotapes, environmental storytelling and direct dialogue.
+- How the mystic knows the password.
+- How the Theseus discovery integrates into the wider quest structure.
 
 ---
 
-# WORKING PRINCIPLE
+# 14. Current Work
 
-Do not prematurely resolve details simply because they can be resolved.
+**Immediate development target:**
 
-When a detail does not constrain the current design, leave it TBD or in WHAT IF? rather than inventing unnecessary canon.
+Design the scientific and historical progression from **Trigger's successful adult-arm reconstruction** to the completed **Project Theseus** system.
 
-In particular, avoid prematurely fixing:
+This should establish a convincing chain of discoveries rather than jumping directly from "regrow an arm" to "rebuild a person."
 
-- names;
-- exact dates;
-- minor biographies;
-- exact facility geography;
-- detailed family history;
-- terminal wording;
-- implementation details that require an in-game recce.
+In particular, develop:
 
-The repository's older chats remain valuable as development history and should be consulted when reconstructing the reasoning behind an existing decision.
+1. The next experiments after Trigger's adult arm.
+2. The first successful reconstruction of increasingly complex structures.
+3. The researchers' evolving understanding of ART.
+4. The technical problems encountered when reconstruction becomes more extensive.
+5. The transition from regenerative medicine to deliberate human reconstruction.
+6. The point at which the work becomes Project Theseus.
+7. The researchers' preparations for the first complete-human trial.
+8. The events immediately preceding the Great War.
+9. The state in which Westminster eventually discovers the facility.
 
-When historical reasoning cannot be recovered with confidence, do not invent a false recollection. Mark the matter as unresolved and work from the current state.
+The immediate narrative starting point is therefore:
+
+**BattlefieldBuddy → ART discovery → Trigger's younger arm → understanding ART → Trigger's adult arm → [CURRENT WORK] → Project Theseus → intended complete-human trial → Great War → 210 years → Westminster.**
 
 ---
 
-# NEXT DEVELOPMENT PRIORITY
+# 15. Recent Development History
 
-**Build the pre-War history of Project Theseus, beginning with Trigger's injury around 2073 and following the research through to 23 October 2077.**
+The most recent development sessions established the following:
 
-The next immediate question is:
+### 23 September 2026
+The Trigger limb-regeneration history was developed.
 
-> **What happened to Trigger, and what did the military/West-Tek do in response?**
+The key breakthrough was the first regenerated arm being an earlier version of Trigger's own arm, followed by the successful adult reconstruction.
 
-The detailed research progression should then be constructed chronologically from that starting point.
+### 24 September 2026
+The discussion established the current terminology **ART — Autologous Reconstruction Template** and explored practical implementation of the regeneration chamber.
+
+The chamber was established as opaque, with instrumentation providing the researchers' observations.
+
+The current Fallout 4 implementation direction became the vanilla Cryo Pod lying-down interaction, with custom visual work deferred.
+
+The next substantive story task was identified as the progression from Trigger's successful adult-arm reconstruction to Project Theseus and complete human reconstruction.
+
+---
+
+# 16. Bootstrap Rule
+
+If this document conflicts with an older dated chat, treat this document as current unless the later chat contains an explicit subsequent decision.
+
+If a later dated chat explicitly changes a decision recorded here, the later decision supersedes this document until `CURRENT-STATE.md` is updated.
+
+Do not treat unresolved questions as decisions.
+
+Do not silently promote speculative ideas from development chats into canon.
