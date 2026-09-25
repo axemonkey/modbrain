@@ -36,6 +36,8 @@ This is the **authoritative bootstrap document**. It describes where the project
 
 [24/09/2026. 01 – Of ART and assets](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-24/01-of-art-and-assets.md)
 
+[25/09/2026. 01 – The Gallery, and the Road to Theseus](https://raw.githubusercontent.com/axemonkey/modbrain/refs/heads/main/chats/2026-09-25/01-the-gallery.md)
+
 These files contain the project's development history: decisions, reasoning, alternatives, brainstorming, discoveries and unresolved questions.
 
 **They are history, not automatically current canon.**
